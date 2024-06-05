@@ -1,6 +1,4 @@
-Certainly! Here is the detailed documentation for your React Meme Generator application, focusing on explanations and descriptions without including code snippets.
 
----
 
 # Meme Generator
 
